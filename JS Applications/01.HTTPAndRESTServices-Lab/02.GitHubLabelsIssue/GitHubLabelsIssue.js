@@ -1,0 +1,51 @@
+// GET: https://api.github.com/repos/testnakov/test-nakov-repo/issues/2976 - where id is 2976
+
+// return JSON:
+
+{
+    "url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/2976",
+    "repository_url": "https://api.github.com/repos/testnakov/test-nakov-repo",
+    "labels_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/2976/labels{/name}",
+    "comments_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/2976/comments",
+    "events_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/2976/events",
+    "html_url": "https://github.com/testnakov/test-nakov-repo/issues/2976",
+    "id": 935994907,
+    "node_id": "MDU6SXNzdWU5MzU5OTQ5MDc=",
+    "number": 2976,
+    "title": "Georgieff test issue",
+    "user": {
+        "login": "vgeorgieff",
+        "id": 47950066,
+        "node_id": "MDQ6VXNlcjQ3OTUwMDY2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47950066?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vgeorgieff",
+        "html_url": "https://github.com/vgeorgieff",
+        "followers_url": "https://api.github.com/users/vgeorgieff/followers",
+        "following_url": "https://api.github.com/users/vgeorgieff/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vgeorgieff/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vgeorgieff/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vgeorgieff/subscriptions",
+        "organizations_url": "https://api.github.com/users/vgeorgieff/orgs",
+        "repos_url": "https://api.github.com/users/vgeorgieff/repos",
+        "events_url": "https://api.github.com/users/vgeorgieff/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vgeorgieff/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2021-07-02T18:44:40Z",
+    "updated_at": "2021-07-02T18:44:40Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "active_lock_reason": null,
+    "body": "Minor bug",
+    "closed_by": null,
+    "performed_via_github_app": null
+}
